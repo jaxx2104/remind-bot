@@ -1,0 +1,16 @@
+{
+  "id": {
+    "bot": "U765UDFS8",
+    "channel": "D776T3NH5",
+    "public": "C10H72J1M"
+  },
+  "path": {
+    "data": "./config/data.json",
+    "task": "./config/task.json"
+  },
+  "time": {
+    "ask": "0 13 * * *",
+    "check": "* */2 * * *"
+  },
+  "reaction": ["heart_eyes"]
+}
